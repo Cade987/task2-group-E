@@ -1,5 +1,5 @@
 # task2-group-E
-Import Scanner
+Import Scanner \n
 Have User Input Password and set variable to password
 Check Password Length
 If Password Length Less than 8 characters, Output "Password does not meet the required conditions"
